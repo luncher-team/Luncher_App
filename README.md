@@ -1,5 +1,20 @@
 # Luncher_App
 
+## Links
+
+### UI
+* Frank - https://luncher-team.github.io/luncher-app-frank-UI/
+* Kim - https://wizardly-mestorf-9769e1.netlify.com/
+* Josh - https://luncher-team.github.io/zen-luncher2/index.html
+
+### Front End
+* Leland - https://luncherappltrii.netlify.com/login
+* Leianne - 
+
+### Back End
+* Nick - https://luncher-app-backend.herokuapp.com/schools  
+Further [docs](https://github.com/luncher-team/LA-Backend-Nick-Stricker/blob/master/README.md)
+
 ## Pitch 
 There are kids today in this country who go without student lunches. This app allows schools to broadcast the needs of their students by declaring an amount of donations that they would need to be fullfilled in order to provide lunches for those that go without. 
 

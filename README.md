@@ -9,7 +9,7 @@
 
 ### Front End
 * Leland - https://luncherappltrii.netlify.com/login
-* Leianne - 
+* Leianne - https://sleepy-boyd-3e4bab.netlify.com/
 
 ### Back End
 * Nick - https://luncher-app-backend.herokuapp.com/schools  
